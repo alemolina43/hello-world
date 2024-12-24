@@ -1,2 +1,1 @@
-Hello this is what my file looks like now
-This is my second line of text
+This repository was created as part of the Git and GutHub workshop for LHL prep modules.
